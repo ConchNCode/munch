@@ -1,11 +1,15 @@
-Munch
+# Munch
+
 "Eat what you want, where you want"
 
-Backend
+## Backend
+
 C# (framework undecided)
 
-Frontend
+## Frontend
+
 Using Xamarin UI Development Platform
 
-Database Engine
+## Database Engine
+
 MongoDB
