@@ -106,7 +106,6 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Munch.Droid.dll" comes first in this list. */
-		"Munch.Droid.dll",
 		"FormsViewGroup.dll",
 		"Munch.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",

@@ -1,7 +1,3 @@
-Munch.Droid.MainActivity, Munch.Droid;md53dbab25a11b321c9ae99ff945ac990bb.MainActivity
-Munch.Droid.MainActivity, Munch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53dbab25a11b321c9ae99ff945ac990bb.MainActivity
-Munch.Droid.MainActivity;md53dbab25a11b321c9ae99ff945ac990bb.MainActivity
-munch.droid.MainActivity;md53dbab25a11b321c9ae99ff945ac990bb.MainActivity
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
