@@ -50,6 +50,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="ScrollViewExample.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -74,6 +78,9 @@
     <Compile Include="Explore.xaml.cs">
       <DependentUpon>Explore.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ScrollViewExample.xaml.cs">
+      <DependentUpon>ScrollViewExample.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
@@ -84,6 +91,27 @@
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml">
       <HintPath>..\packages\Xamarin.Forms.2.5.0.121934\lib\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading">
+      <HintPath>..\packages\Xamarin.FFImageLoading.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Platform">
+      <HintPath>..\packages\Xamarin.FFImageLoading.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="SkiaSharp">
+      <HintPath>..\packages\SkiaSharp.1.60.0\lib\portable-net45+win8+wpa81+wp8\SkiaSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Svg.Platform">
+      <HintPath>..\packages\Xamarin.FFImageLoading.Svg.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.Svg.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Forms">
+      <HintPath>..\packages\Xamarin.FFImageLoading.Forms.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Svg.Forms">
+      <HintPath>..\packages\Xamarin.FFImageLoading.Svg.Forms.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.Svg.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="FFImageLoading.Transformations">
+      <HintPath>..\packages\Xamarin.FFImageLoading.Transformations.2.3.6\lib\portable-win+net45+wp80+win81+wpa81\FFImageLoading.Transformations.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

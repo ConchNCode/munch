@@ -47,10 +47,6 @@
 /Users/fendy/Projects/munch/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/fendy/Projects/munch/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/fendy/Projects/munch/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.csprojResolveAssemblyReference.cache
-/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.csproj.CoreCompileInputs.cache
-/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.exe
-/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.pdb
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/ibtool/_BundleResourceWithLogicalName.items
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/actool/_PartialAppManifest.items
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/actool/_BundleResourceWithLogicalName.items
@@ -67,3 +63,7 @@
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/optimized/ic_message_white.png
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/optimized/ic_search.png
 /Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.3/optimized/
+/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.csprojResolveAssemblyReference.cache
+/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.csproj.CoreCompileInputs.cache
+/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.exe
+/Users/fendy/Projects/munch/iOS/obj/iPhoneSimulator/Debug/Munch.iOS.pdb

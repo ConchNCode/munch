@@ -1,0 +1,5 @@
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/RecyclerView/DLToolkit.Forms.Controls.RecyclerView/bin/Debug/DLToolkit.Forms.Controls.RecyclerView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/RecyclerView/DLToolkit.Forms.Controls.RecyclerView/bin/Debug/DLToolkit.Forms.Controls.RecyclerView.pdb
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/RecyclerView/DLToolkit.Forms.Controls.RecyclerView/obj/Debug/DLToolkit.Forms.Controls.RecyclerView.csproj.CoreCompileInputs.cache
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/RecyclerView/DLToolkit.Forms.Controls.RecyclerView/obj/Debug/DLToolkit.Forms.Controls.RecyclerView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/RecyclerView/DLToolkit.Forms.Controls.RecyclerView/obj/Debug/DLToolkit.Forms.Controls.RecyclerView.pdb
