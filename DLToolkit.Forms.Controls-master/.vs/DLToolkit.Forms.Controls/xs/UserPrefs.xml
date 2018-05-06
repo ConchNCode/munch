@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{34D8A8BC-C10F-4D70-AB4C-DE90577D2B1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Samples/DLToolkitControlsSamples/MainPage.xaml">
+    <Files>
+      <File FileName="Samples/DLToolkitControlsSamples/MainPageModel.cs" Line="1" Column="1" />
+      <File FileName="Samples/DLToolkitControlsSamples/MainPage.xaml" Line="20" Column="15" />
+      <File FileName="RecyclerView/DLToolkit.Forms.Controls.RecyclerView/project.json" Line="1" Column="1" />
+      <File FileName="RecyclerView/DLToolkit.Forms.Controls.RecyclerView/RecyclerView.cs" Line="1" Column="1" />
+      <File FileName="RecyclerView/DLToolkit.Forms.Controls.RecyclerView/RecyclerViewOrientation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Samples.DLToolkitControlsSamples.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD8BD0EB-A2A3-477A-997F-7EF3F1A969DE" />
+</Properties>
