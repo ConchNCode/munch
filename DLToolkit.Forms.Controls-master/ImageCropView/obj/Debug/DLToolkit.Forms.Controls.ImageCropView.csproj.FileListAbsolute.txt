@@ -1,0 +1,5 @@
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/ImageCropView/bin/Debug/DLToolkit.Forms.Controls.ImageCropView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/ImageCropView/bin/Debug/DLToolkit.Forms.Controls.ImageCropView.pdb
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/ImageCropView/obj/Debug/DLToolkit.Forms.Controls.ImageCropView.csproj.CoreCompileInputs.cache
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/ImageCropView/obj/Debug/DLToolkit.Forms.Controls.ImageCropView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/ImageCropView/obj/Debug/DLToolkit.Forms.Controls.ImageCropView.pdb

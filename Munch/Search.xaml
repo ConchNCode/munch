@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Munch.Search" Icon="ic_search.png">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Spacing="0">
+            <BoxView BackgroundColor="Purple" HeightRequest="40">
+            </BoxView>
+            <SearchBar BackgroundColor="Purple" Scale="1">
+            </SearchBar>
+            <Entry Text="What do you feel like eating?">
+            </Entry>
+            <Label Text="Search" VerticalOptions="Center" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

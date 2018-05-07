@@ -1,0 +1,5 @@
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/TagEntryView/DLToolkit.Forms.Controls.TagEntryView/bin/Debug/DLToolkit.Forms.Controls.TagEntryView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/TagEntryView/DLToolkit.Forms.Controls.TagEntryView/bin/Debug/DLToolkit.Forms.Controls.TagEntryView.pdb
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/TagEntryView/DLToolkit.Forms.Controls.TagEntryView/obj/Debug/DLToolkit.Forms.Controls.TagEntryView.csproj.CoreCompileInputs.cache
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/TagEntryView/DLToolkit.Forms.Controls.TagEntryView/obj/Debug/DLToolkit.Forms.Controls.TagEntryView.dll
+/Users/fendy/Downloads/DLToolkit.Forms.Controls-master/TagEntryView/DLToolkit.Forms.Controls.TagEntryView/obj/Debug/DLToolkit.Forms.Controls.TagEntryView.pdb

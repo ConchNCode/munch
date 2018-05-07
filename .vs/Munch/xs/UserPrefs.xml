@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9AE97BC0-85A8-40A9-866F-0D958AFE5CA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Munch/ScrollViewExample.xaml.cs">
+    <Files>
+      <File FileName="Munch/Home.xaml" Line="6" Column="30" />
+      <File FileName="Munch/packages.config" Line="1" Column="1" />
+      <File FileName="Munch/Chat.xaml" Line="12" Column="15" />
+      <File FileName="Munch/MunchPage.xaml" Line="12" Column="14" />
+      <File FileName="Munch/App.xaml" Line="7" Column="1" />
+      <File FileName="Munch/App.xaml.cs" Line="18" Column="9" />
+      <File FileName="Munch/Profile.xaml" Line="12" Column="15" />
+      <File FileName="Munch/Search.xaml" Line="7" Column="52" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Munch/Explore.xaml" Line="12" Column="15" />
+      <File FileName="Munch/ScrollViewExample.xaml" Line="6" Column="1" />
+      <File FileName="Munch/ScrollViewExample.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Munch.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Munch.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5E6E49A5-83DF-4AEE-8EDE-C3BF66F33EC8" />
+  <MultiItemStartupConfigurations />
+</Properties>
